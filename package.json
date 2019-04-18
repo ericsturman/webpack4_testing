@@ -1,0 +1,24 @@
+{
+  "name": "webpack4_testing",
+  "version": "1.0.0",
+  "description": "playing around with version 4 of webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericsturman/webpack4_testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericsturman/webpack4_testing/issues"
+  },
+  "homepage": "https://github.com/ericsturman/webpack4_testing#readme",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}
